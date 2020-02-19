@@ -11,9 +11,10 @@
 * Changed points to sentences in Literature Review
 * Moved research gap comments to Future Work
 * Changed Future Work from bullets to paragraphs
+* Added big picture diagram
+* Changed points in Lessons Learned to sentences
 
 ## Todo
 
 * Define major topics, with core citations and an example
-* Change Lessons Learned to sentences
 
